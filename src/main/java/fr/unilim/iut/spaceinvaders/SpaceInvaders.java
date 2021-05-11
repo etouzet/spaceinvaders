@@ -61,4 +61,10 @@ private boolean estDansEspaceDeJeu(int x, int y) {
 	return ((x >= 0) && (x < longueur)) && ((y >= 0) && (y < hauteur));
 }
 
+public void deplacerVaisseauVersLaDroite() {
+	// TODO Auto-generated method stub
+	if (vaisseau.abscisse()< (longueur-1)) vaisseau.seDeplacerVersLaDroite();
+	
+}
+
 }
