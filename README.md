@@ -15,7 +15,14 @@ Fonctionnalité n°1: déplacer un vaisseau dans l'espace de jeu
   Si celui-ci est hors des limites de l'espace alors une erreur sera levée.
   
   Story n°3 : Déplacer le vaisseau vers la droite.
-  En cours.
+  
+  Story n°4 : Déplaccer le vaisseau vers la gauche.
+  
+Fonctionnalité n°2: Dimensionner le vaisseau
+
+  Story n°1 : Positionner un nouveau vaisseau avec une dimension donnée
+  
+  
   
   
   
