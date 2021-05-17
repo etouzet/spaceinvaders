@@ -22,6 +22,16 @@ Fonctionnalité n°2: Dimensionner le vaisseau
 
   Story n°1 : Positionner un nouveau vaisseau avec une dimension donnée
   
+  Story n°2 : Positionner un vaisseau avec une dimension
+  
+  Story n°3 : Déplacer un vaisseau vers la droite en tenant compte de sa dimension 
+  
+  Story n°4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension
+  
+ Fonctionnalité n°3 : Choisir la vitesse du vaisseau 
+ 
+  
+  
   
   
   
