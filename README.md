@@ -6,6 +6,8 @@ Envahisseur : ennemi qui apparaît à l'écran, se déplace automatiquement et q
 
 Missile : projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire.
 
+Sprite : élément graphique qui peut se déplacer sur l'écran.
+
 
 Fonctionnalité n°1: déplacer un vaisseau dans l'espace de jeu
 
@@ -28,8 +30,15 @@ Fonctionnalité n°2: Dimensionner le vaisseau
   
   Story n°4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension
   
- Fonctionnalité n°3 : Choisir la vitesse du vaisseau 
+Fonctionnalité n°3 : Choisir la vitesse du vaisseau 
+
+Création de l'interface graphique
+
+Fonctionnalité n°4 : Tirer un missile depuis le vaisseau (en cours)
  
+  Quick design session 
+  
+  Refactoring du quick design (en cours)
   
   
   
